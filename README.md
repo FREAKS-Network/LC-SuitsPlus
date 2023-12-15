@@ -1,8 +1,11 @@
 # FREAKS® Suits Plus
 ### Private mod from [FREAKS®](https://freaks-smp.fr), adding 12 colored suits, as well as some custom suits.
 
+| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/) | [Website](https://freaks-smp.fr/)
+|---|---|---|
+
 ## Installation
-Use the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) for installation
+Use the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or the [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) for installation
 
 ## Colored Suits
 **There is 12 colored suits:**
@@ -25,28 +28,27 @@ Use the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thu
 - Lacoste TN
 
 ## Credits
-**Textures by [@xJochois](https://twitter.com/xJochois):**
 
-`Marlo.png`
-`Lacoste TN.png`
+**Textures:**
 
-**Textures by [@SKAREZ_Z](https://twitter.com/SKAREZ_Z):**
+| Suits | Designer |
+|-----|:--------:|
+| `Marlo.png` | [@xJochois](https://twitter.com/xJochois) |
+| `Lacoste TN.png` | [@xJochois](https://twitter.com/xJochois) |
+| `Black.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Blue.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Blue (Dark).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Orange (Default).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Gray.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Green.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Green (Dark).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Pink.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Purple.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Red.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `White.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| `Yellow.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
 
-`Black.png`
-`Blue.png`
-`Blue (Dark).png`
-
-`Orange (Default).png`
-`Gray.png`
-`Green.png`
-
-`Green (Dark).png`
-`Pink.png`
-`Purple.png`
-
-`Red.png`
-`White.png`
-`Yellow.png`
+</details>
 
 **[More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) by [x753](https://github.com/x753)**
 
