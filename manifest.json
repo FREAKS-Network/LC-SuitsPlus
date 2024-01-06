@@ -1,0 +1,12 @@
+{
+    "name": "SuitsPlus",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/skarez/SuitsPlus",
+    "description": "Private mod from FREAKS®, adding 17 colored suits, and some custom suits.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "x753-More_Suits-1.4.1",
+        "Hexnet111-SuitSaver-1.1.2",
+        "Verity-TooManySuits-1.0.5"
+    ]
+}
