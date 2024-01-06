@@ -1,4 +1,4 @@
-# FREAKS® Suits Plus
+# SuitsPlus
 ### Private mod from [FREAKS®](https://freaks-smp.fr), adding 17 colored suits, and some custom suits.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/SuitsPlus) | [Website](https://freaks-smp.fr/)
 | --- | --- | --- |
@@ -79,4 +79,4 @@ If you want to use the mod, but don't want to have our custom suits we made for 
 
 `X:\Program Files\Steam\steamapps\common\Lethal Company\BepInEx\config\x753.More_Suits.cfg`
 
-Or just delete the `.png` files, they will reappear if this mod gets updated.
+Or you can delete the `.png` files, note that they will reappear if this mod gets updated.
