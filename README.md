@@ -1,8 +1,9 @@
 # FREAKS® Suits Plus
 ### Private mod from [FREAKS®](https://freaks-smp.fr), adding 17 colored suits, and some custom suits.
-
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/SuitsPlus) | [Website](https://freaks-smp.fr/)
 | --- | --- | --- |
+
+---
 
 ## Installation
 
@@ -26,9 +27,13 @@ Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and cl
 | :--------: | :--------: | :--------: | 
 | ![orange.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/orange.png) | ![pink.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/pink.png) | ![purple.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/purple.png) | 
 
-| **Red** | **White** | **Yellow** |
+| **Red** | **Red (Dark)** | **Red (Light)** |
 | :--------: | :--------: | :--------: |
-| ![red.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red.png) | ![white.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/white.png)  | ![yellow.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/yellow.png) |
+| ![red.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red.png) | ![red_dark.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red_dark.png)  | ![red_light.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red_light.png) |
+
+| **White** | **Yellow** |
+| :--------: | :--------: |
+| ![white.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/white.png)  | ![yellow.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/yellow.png) |
 
 ## Custom Suits
 
