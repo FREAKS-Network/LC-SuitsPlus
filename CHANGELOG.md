@@ -3,6 +3,7 @@
 # 2.0.1
   + Other:
     - Compatibility fixes
+        - Removed the `resource/img/*` from Thunderstore files
 
 # 2.0.0
   + Added 6 new colored suits:
