@@ -1,4 +1,4 @@
-# SuitsPlus
+# Suits Plus 2.0.1
 ### Private mod from [FREAKS®](https://freaks-smp.fr), adding 17 colored suits, and some custom suits.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/SuitsPlus) | [Website](https://freaks-smp.fr/)
 | --- | --- | --- |
@@ -8,6 +8,10 @@
 ## Installation
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
+
+```
+NOTE: Since 2.0 is out don't forget to delete older versions of the mod to avoid duplicates!
+```
 
 ## Colored Suits
 
