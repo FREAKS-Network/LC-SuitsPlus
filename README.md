@@ -9,6 +9,10 @@
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
 
+```
+NOTE: Since 2.0 is out don't forget to delete older versions of the mod to avoid duplicates!
+```
+
 ## Colored Suits
 
 | **Black** | **Blue** | **Blue (Dark)** | 
