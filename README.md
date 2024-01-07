@@ -1,4 +1,4 @@
-# SuitsPlus
+# Suits Plus 2.0.1
 ### Private mod from [FREAKS®](https://freaks-smp.fr), adding 17 colored suits, and some custom suits.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/SuitsPlus) | [Website](https://freaks-smp.fr/)
 | --- | --- | --- |
