@@ -1,81 +1,32 @@
-# Suits Plus 2.0.1
-### Private mod from [FREAKS®](https://freaks-smp.fr), adding 17 colored suits, and some custom suits.
-| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/SuitsPlus) | [Website](https://freaks-smp.fr/)
-| --- | --- | --- |
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/banner.png)
 
----
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/installation.png)
 
-## Installation
+Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), then click on the `Install with Mod Manager` button right above.
 
-Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
+![gallery.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/gallery.png)
 
-```
-NOTE: Since 2.0 is out don't forget to delete older versions of the mod to avoid duplicates!
-```
+| | | | | |
+| :--------: | :--------: | :--------: | :--------: | :--------: | 
+| **Black** | **Blue** | **Blue (Dark)** | **Blue (Light)** | **Brown** |
+| ![black.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/black.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![blue.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/blue.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![blue_dark.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/blue_dark.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![blue_light.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/blue_light.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![brown.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/brown.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| **Gray** | **Green** | **Green (Dark)** | **Green (Light)** | **Orange** |
+| ![gray.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/gray.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![green.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/green.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![green_dark.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/green_dark.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![green_light.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/green_light.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![orange.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/orange.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| **Pink** | **Purple** | **Red** | **Red (Dark)** | **Red (Light)** |
+| ![pink.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/pink.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![purple.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/purple.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![red.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/red.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![red_dark.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/red_dark.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![red_light.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/red_light.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
+| **White** | **Yellow** | **Bmo** | **Elite** | **Finn** |
+| ![white.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/white.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![yellow.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/yellow.png) <br> [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) | ![bmo.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/bmo.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) | ![elite.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/elite.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) | ![finn.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/finn.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) |
+| **Gorilla** | **Highclass** | **Jake** | **Lacoste TN** | **Marlo** |
+| ![gorilla.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/gorilla.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) | ![highclass.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/highclass.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) | ![jake.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/jake.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) | ![lacoste_tn.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/lacoste_tn.png) <br> [@xJochois](https://twitter.com/xJochois) | ![marlo.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/marlo.png) <br> [@xJochois](https://twitter.com/xJochois) |
+| **Peter Griffin** | **Prismo** |
+| ![peter_griffin.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/peter_griffin.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) | ![prismo.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/suits/prismo.png) <br> [@davson](https://thunderstore.io/c/lethal-company/p/davson/) |
+| | | | | |
 
-## Colored Suits
+![custom_suits.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/custom_suits.png)
 
-| **Black** | **Blue** | **Blue (Dark)** | 
-| :--------: | :--------: | :--------: | 
-| ![black.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/black.png) | ![blue.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/blue.png) | ![blue_dark.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/blue_dark.png) | 
+You can add your own custom suits by using [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) as a template/library, check the mod page for more informations.
 
-| **Blue (Light)** | **Brown** | **Gray** | 
-| :--------: | :--------: | :--------: | 
-| ![blue_light.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/blue_light.png) | ![brown.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/brown.png) | ![gray.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/gray.png) | 
-
-| **Green** | **Green (Dark)** | **Green (Light)** | 
-| :--------: | :--------: | :--------: | 
-| ![green.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/green.png) | ![green_dark.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/green_dark.png) | ![green_light.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/green_light.png) | 
-
-| **Orange** | **Pink** | **Purple** | 
-| :--------: | :--------: | :--------: | 
-| ![orange.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/orange.png) | ![pink.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/pink.png) | ![purple.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/purple.png) | 
-
-| **Red** | **Red (Dark)** | **Red (Light)** |
-| :--------: | :--------: | :--------: |
-| ![red.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red.png) | ![red_dark.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red_dark.png)  | ![red_light.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/red_light.png) |
-
-| **White** | **Yellow** |
-| :--------: | :--------: |
-| ![white.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/white.png)  | ![yellow.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/yellow.png) |
-
-## Custom Suits
-
-| **Marlo** | **Lacoste TN** |
-| :--------: | :--------: |
-| ![marlo.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/marlo.png) | ![lacoste_tn.png](https://raw.githubusercontent.com/SKAREZ/SuitsPlus/2.0.0/resources/img/lacoste_tn.png) |
-
-## Credits
-
-| Suits | Designer | 
-| :--------: | :--------: | 
-| `Black.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Blue.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Blue (Dark).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Blue (Light).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Brown.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Gray.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Green.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Green (Dark).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Green (Light).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Orange.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Pink.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Purple.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Red.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Red (Dark).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Red (Light).png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `White.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| `Yellow.png` | [@SKAREZ_Z](https://twitter.com/SKAREZ_Z) |
-| | |
-| `Marlo.png` | [@xJochois](https://twitter.com/xJochois) (2.0.0 rework by [@SKAREZ_Z](https://twitter.com/SKAREZ_Z)) |
-| `Lacoste TN.png` | [@xJochois](https://twitter.com/xJochois) (2.0.0 rework by [@SKAREZ_Z](https://twitter.com/SKAREZ_Z)) |
-
-</details>
-
-## Add/Disable Custom Suits
-You can add your own custom suits textures using [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) as a template/library, check the mod page for more informations.
-
-Or you can just add a custom texture you made into our mod, just drag the texture inside *(As to be `.png` and a valid template)*:
+Or you can just add a custom texture you made into our mod, just drag the texture *(Needs to be a valid `.png` file)* inside:
 
 `X:\Program Files\Steam\steamapps\common\Lethal Company\BepInEx\plugin\FREAKS-SuitsPlus\moresuits`
 
@@ -84,3 +35,11 @@ If you want to use the mod, but don't want to have our custom suits we made for 
 `X:\Program Files\Steam\steamapps\common\Lethal Company\BepInEx\config\x753.More_Suits.cfg`
 
 Or you can delete the `.png` files, note that they will reappear if this mod gets updated.
+
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/.github/assets/img/our_mods.png)
+
+### Check out the other mods we made for Lethal Company!
+
+| **[FREAKS Modpack](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)** | **[FREAKS Modpack Lite](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/)** |
+| :--------: | :--------: |
+| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/icon.png" alt="freaks_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/lite/icon.png" alt="freaks_modpack_lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) |
